@@ -10,7 +10,7 @@ My interests lie in
 
 
 
-[![image](https://user-images.githubusercontent.com/72717361/200592619-8533fe0b-7dd7-45c8-9f4c-7f0ef75722c5.png) with<img src="https://user-images.githubusercontent.com/72717361/200592619-8533fe0b-7dd7-45c8-9f4c-7f0ef75722c5.png" width="100" height="50"
+[![image](https://user-images.githubusercontent.com/72717361/200592619-8533fe0b-7dd7-45c8-9f4c-7f0ef75722c5.png)
 ](https://www.linkedin.com/in/shravani-nag-402037235/)
 
 
