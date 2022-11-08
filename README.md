@@ -7,6 +7,12 @@ My interests lie in
 ✅Web Development
 ✅App Development
 
+
+
+
+[![LinkedIn](![image](https://user-images.githubusercontent.com/72717361/200592198-13615011-0a7f-4133-ad03-dbe2ecac96a5.png)](https://www.linkedin.com/in/shravani-nag-402037235/)
+
+
 Tools and Technologies known:
 
 
