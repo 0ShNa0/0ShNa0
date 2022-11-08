@@ -8,6 +8,17 @@ My interests lie in
 ✅App Development
 
 Tools and Technologies known:
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/72717361/200588963-4c3bee15-df87-4805-9174-dbfa2f580c76.png)
 ![image](https://user-images.githubusercontent.com/72717361/200589061-30dcb5a7-b731-489c-be80-dc0717f24bf6.png)
 ![image](https://user-images.githubusercontent.com/72717361/200590012-fc877c62-dea1-4703-98c7-ea8a5ad4f540.png)
