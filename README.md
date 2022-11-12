@@ -8,10 +8,12 @@ My interests lie in
 ✅App Development
 
 
-
+<div style="width:200px;height:60px>
 
 [![image](https://user-images.githubusercontent.com/72717361/200592619-8533fe0b-7dd7-45c8-9f4c-7f0ef75722c5.png|width=500px)
 ](https://www.linkedin.com/in/shravani-nag-402037235/)
+            
+<div>            
 
 
 Tools and Technologies known:
