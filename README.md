@@ -2,6 +2,7 @@
 
 I am currently a sophomore cs student.
 My interests lie in 
+<br>
 ✅Data Science
 <br>
 ✅AI 
