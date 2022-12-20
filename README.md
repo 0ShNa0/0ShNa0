@@ -3,8 +3,11 @@
 I am currently a sophomore cs student.
 My interests lie in 
 ✅Data Science
+<br>
 ✅AI 
+<br>
 ✅Web Development
+<br>
 ✅App Development
 
 
