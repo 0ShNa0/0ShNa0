@@ -34,7 +34,7 @@ Tools and Technologies known:
 <img src="https://user-images.githubusercontent.com/72717361/200590110-76e75b2e-a561-435e-8243-b58552de9861.png" width="100">
 <img src="https://user-images.githubusercontent.com/72717361/200590218-9beb70c8-4f84-4d50-a517-8dceb6470c3c.png" width="100">
 <img src="https://user-images.githubusercontent.com/72717361/200590336-abb8b5fa-a253-4de2-ba23-5dbf29d1899f.png" width="100>
-<img src="https://user-images.githubusercontent.com/72717361/200590557-bf920eb3-b68a-4c07-ade4-744a945ed5ec.png" width="100>
+<img src="https://user-images.githubusercontent.com/72717361/200590557-bf920eb3-b68a-4c07-ade4-744a945ed5ec.png" width="100">
 <img src="https://user-images.githubusercontent.com/72717361/200590669-bf4ca913-8c99-4d91-b0ec-66bec865c9fc.png" width="100">
 
 
