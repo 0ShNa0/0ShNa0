@@ -1,11 +1,11 @@
-### Hi there 👋!I am Shravani👩‍💻
+# Hi there 👋!I am Shravani👩‍💻
 
-I am currently a sophomore cs student.
-My interests lie in 
+**I am currently a prefinal year cs student.**
+#My interests lie in 
 <br>
-✅Data Science
+✅Machine Learning
 <br>
-✅AI 
+✅Natural Language Processing
 <br>
 ✅Web Development
 <br>
