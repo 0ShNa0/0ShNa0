@@ -1,7 +1,7 @@
 # Hi there 👋!I am Shravani👩‍💻
 
-**I am currently a prefinal year cs student.** <br>
-<br>
+**I am currently a prefinal year cs student.** 
+
 ...at Indira Gandhi Delhi Technical University for Women.
 ### My interests lie in 
 
