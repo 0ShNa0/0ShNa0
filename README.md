@@ -4,13 +4,13 @@
 <br>
 ### My interests lie in 
 <br>
-✅Machine Learning
+✅**Machine Learning**
 <br>
-✅Natural Language Processing
+✅**Natural Language Processing**
 <br>
-✅Web Development
+✅**Web Development**
 <br>
-✅App Development
+✅**App Development**
 
 
 
