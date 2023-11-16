@@ -3,8 +3,8 @@
 **I am currently a prefinal year cs student.** <br>
 <br>
 ### My interests lie in 
-<br>
- **Machine Learning**<br>
+
+**Machine Learning**<br>
 **Natural Language Processing**<br>
 **Web Development**<br>
 **App Development**
