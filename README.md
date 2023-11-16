@@ -12,7 +12,7 @@
 <br>
 ✅** App Development **
 
-### View my LinkedIn!
+### You can get to know me on LinkedIn!
 <br> 
 
 
