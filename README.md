@@ -8,9 +8,9 @@
 <br>
 ✅**Natural Language Processing**
 <br>
-✅**Web Development**
+✅** Web Development **
 <br>
-✅**App Development**
+✅** App Development **
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-Tools and Technologies known:
+###Tools and Technologies known:
 
 
 
