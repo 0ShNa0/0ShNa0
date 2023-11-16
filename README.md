@@ -2,6 +2,7 @@
 
 **I am currently a prefinal year cs student.** <br>
 <br>
+...at Indira Gandhi Delhi Technical University for Women.
 ### My interests lie in 
 
 🎗️**Machine Learning**<br>
