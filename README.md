@@ -1,7 +1,8 @@
 # Hi there 👋!I am Shravani👩‍💻
 
-**I am currently a prefinal year cs student.**
-#My interests lie in 
+**I am currently a prefinal year cs student.** <br>
+<br>
+### My interests lie in 
 <br>
 ✅Machine Learning
 <br>
