@@ -28,7 +28,7 @@ Click the icon to be redirected to LinkedIn⬇️
 <img src="https://user-images.githubusercontent.com/72717361/200590557-bf920eb3-b68a-4c07-ade4-744a945ed5ec.png" width="30" height="30">
 <img src="https://user-images.githubusercontent.com/72717361/200590669-bf4ca913-8c99-4d91-b0ec-66bec865c9fc.png" width="30" height="30">
 
-
+<br>
 
 
 
