@@ -21,12 +21,7 @@ Click the icon to be redirected to LinkedIn⬇️
 
 ### Tools and Technologies known:
 
-<img src="https://user-images.githubusercontent.com/72717361/200588963-4c3bee15-df87-4805-9174-dbfa2f580c76.png" width="30" height="30"> 
-<img src="https://user-images.githubusercontent.com/72717361/200589061-30dcb5a7-b731-489c-be80-dc0717f24bf6.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/72717361/200590218-9beb70c8-4f84-4d50-a517-8dceb6470c3c.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/72717361/200590336-abb8b5fa-a253-4de2-ba23-5dbf29d1899f.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/72717361/200590557-bf920eb3-b68a-4c07-ade4-744a945ed5ec.png" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/72717361/200590669-bf4ca913-8c99-4d91-b0ec-66bec865c9fc.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/72717361/200588963-4c3bee15-df87-4805-9174-dbfa2f580c76.png" width="30" height="30"> <img src="https://user-images.githubusercontent.com/72717361/200589061-30dcb5a7-b731-489c-be80-dc0717f24bf6.png" width="30" height="30"><img src="https://user-images.githubusercontent.com/72717361/200590218-9beb70c8-4f84-4d50-a517-8dceb6470c3c.png" width="30" height="30"><img src="https://user-images.githubusercontent.com/72717361/200590336-abb8b5fa-a253-4de2-ba23-5dbf29d1899f.png" width="30" height="30"><img src="https://user-images.githubusercontent.com/72717361/200590557-bf920eb3-b68a-4c07-ade4-744a945ed5ec.png" width="30" height="30"><img src="https://user-images.githubusercontent.com/72717361/200590669-bf4ca913-8c99-4d91-b0ec-66bec865c9fc.png" width="30" height="30">
 
 <br>
 
