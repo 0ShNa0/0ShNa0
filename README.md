@@ -8,7 +8,7 @@
 🎗️**Machine Learning**<br>
 🎗️**Natural Language Processing**<br>
 🎗️**Web Development**<br>
-🎗️**App Development**
+
 
 ### You can get to know me on LinkedIn!
 <br> 
