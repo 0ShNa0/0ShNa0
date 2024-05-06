@@ -16,8 +16,7 @@
 
 
 [<img src="https://user-images.githubusercontent.com/72717361/200592619-8533fe0b-7dd7-45c8-9f4c-7f0ef75722c5.png" width="100" height="25">](https://www.linkedin.com/in/shravani-nag-402037235/)
-
-[<img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/e5f8df00-5686-4e66-b445-1648751ef746" width="100" height="25">] (https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao)
+![gsch](https://github.com/0ShNa0/0ShNa0/assets/72717361/3fcb1804-78ce-4fb6-b81a-5eb123887591) (https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao)
 
 
 ## Tools and Technologies known:
