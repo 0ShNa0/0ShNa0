@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-- 📝 Know my research through <a href="https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/751423c6-b093-40a7-b22d-4ae8ca6bf622" width="85" height="55"/> </a>
+- 📝 Know my research through : <a href="https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/751423c6-b093-40a7-b22d-4ae8ca6bf622" width="85" height="55"/> </a>
 
 
 
