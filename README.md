@@ -13,7 +13,7 @@
 
 - 💡 I am interested in **Full stack development and AI research**
 
-- 📫 How to reach me         <a href="https://www.linkedin.com/in/shravani-nag-402037235/" target="_blank" rel="noreferrer">
+- 📫 How to reach me :<t/>       <a href="https://www.linkedin.com/in/shravani-nag-402037235/" target="_blank" rel="noreferrer">
 <img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/bbfbaf24-1d56-49f7-839f-13709b5839cc" width="80" height="30"/></a>
 
 
