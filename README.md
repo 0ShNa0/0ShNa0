@@ -9,10 +9,15 @@
 
 - 🌱 I’m currently learning **Golang**
 
+- 💡 I am interested in **Full stack development and AI research**
+
+<h3 align="left">Connect with me:</h3>
+
+
 - 📝 Know my research through <a href="https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/751423c6-b093-40a7-b22d-4ae8ca6bf622" width="85" height="55"/> </a>
 
 
-- 💡 I am interested in **Full stack development and AI research**
+
 
 - 📫 How to reach me :   <a href="https://www.linkedin.com/in/shravani-nag-402037235/" target="_blank" rel="noreferrer">
 <img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/bbfbaf24-1d56-49f7-839f-13709b5839cc" width="75" height="25"/></a>
