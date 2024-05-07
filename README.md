@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 Know my research through <a href="https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/751423c6-b093-40a7-b22d-4ae8ca6bf622" width="75" height="25"/> </a>
+- 📝 Know my research through <a href="https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=5aimcMgAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"> <img src="https://github.com/0ShNa0/0ShNa0/assets/72717361/751423c6-b093-40a7-b22d-4ae8ca6bf622" width="85" height="35"/> </a>
 
 
 - 💡 I am interested in **Full stack development and AI research**
