@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0shna0&label=Profile%20views&color=0e75b6&style=flat" alt="0shna0" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+
 
 - 💡 I am interested in **Full stack development and AI research**
 
